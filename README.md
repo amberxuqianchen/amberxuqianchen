@@ -2,7 +2,7 @@
 - 👀 I’m interested in emotion contagion.
 - 🌱 I’m currently learning text analysis
 - 💞️ I’m looking to collaborate on computational social science
-- 📫 How to reach me: contact me at amberchen@cuhk.edu.hk
+- 📫 How to reach me: contact me at amber.chen@psych.ucsb.edu
 
 <!---
 amberxuqianchen/amberxuqianchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

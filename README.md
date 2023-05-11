@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amberxuqianchen
 - 👀 I’m interested in emotion contagion.
-- 🌱 I’m currently learning text analysis
+- 🌱 I’m currently learning deep learning and fmri analysis
 - 💞️ I’m looking to collaborate on computational social science
 - 📫 How to reach me: contact me at amber.chen@psych.ucsb.edu
 
